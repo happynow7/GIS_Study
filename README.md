@@ -6,6 +6,7 @@
 JavaScript, HTML, CSS, D3.js
 
 [학습 및 성장]
+<br>
   ✅ 애니메이션 효과: 막대가 부드럽게 올라오도록 transition() 추가
 <br>
   ✅ X/Y축 라벨: 데이터 값 표시, 축 추가
