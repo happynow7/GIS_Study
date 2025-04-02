@@ -3,6 +3,7 @@
 <br>
 
 [skill]
+<br>
 JavaScript, HTML, CSS, D3.js
 
 [학습 및 성장]
